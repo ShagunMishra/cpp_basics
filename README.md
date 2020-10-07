@@ -11,3 +11,4 @@ Here some basic programs on C++....
 4. BASICSAL1 : to print net amount where basic salary is @ 12.5%             
 5. BASICSAL2 : to print net amount as per given condition when basic salary is get inputed
 6. BINARY    : program to print binary number of the given number
+7. CALCULATOR: if_else DMAS calculator
