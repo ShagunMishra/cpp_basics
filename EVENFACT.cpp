@@ -1,0 +1,26 @@
+#include <iostream>
+
+using namespace std;
+
+void main()
+{
+    long i,n,p;
+    cout<<"Enter the number:";
+    cin>>n;
+    for(i=2;i<=n;i++)
+    {
+        p=0;
+        if(n%i==0&&i%2==0)
+        {
+            cout<<i<<" ";
+            continue;
+        }
+        p=1;
+    }
+    if(p==1)
+        cout<<"There is no even factor of the given number.";
+    else
+        cout<<"are the even factor of the given number.";
+}
+
+
