@@ -1,5 +1,5 @@
 # C++_Basics
-C++ programs with basic logics
+C++ programs with basic logic
 
 Here some basic programs on C++....
 
