@@ -17,3 +17,13 @@ Here some basic programs on C++....
 10. FIBONACCI : program to print fabonacci series till the given number.
                 fabonacci series is that series in which it give the sum of the next two number if it start with zero and one the the series are as follows
                 0,1,(0+1=)1,(1+1=)2,(2+1=)3,(2+3=)5,(3+5=)8,.........................
+11. FACT      : to find factor of the given number
+12. FACTO     : program to find factorial of the given number
+13. FACTO2    : program to find factorial till the given number
+14. FUNHARSED : to find given number is harsed with function.
+                harsed number is 1729 when the digit of the number is get sum and then that digit is get reversed and both get multiplied then the result is
+                observed same number i.e. 1+7+2+9=19, reverse=91 and 19*91=1729                
+15. HARSED    : harsed number without function
+                A number is said to be harsed number if we add the digits of the given number
+                and then get reversed that number and by multiplying these two number we get
+                same number given. 1729 is harsed number
