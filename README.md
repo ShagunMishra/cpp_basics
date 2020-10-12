@@ -32,3 +32,8 @@ Here some basic programs on C++....
 18. MAX       : to print maximum value from the given the values
 19. ODDFACT   : to find odd factor of the given number
 20. POWER     : to print the result of power of the number
+21. PRIME     : to find the given number is prime number or not
+22. PRIME2    : program to print the reverse of the given number
+23. REVERSE   : program to print the reverse of the given number
+24. ROOT      : to find roots of the given equation
+25. SUMDIGIT  : program to print the sum of the digit of the given number
