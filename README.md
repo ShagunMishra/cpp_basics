@@ -37,3 +37,10 @@ Here some basic programs on C++....
 23. REVERSE   : program to print the reverse of the given number
 24. ROOT      : to find roots of the given equation
 25. SUMDIGIT  : program to print the sum of the digit of the given number
+26. SWAADDDI  : program to print the number after swapping 2nd and 3rd digit of the given number and adding 1st and 4th digit
+27. SWAPDI    : program to print the number after swaping 2nd and 3rd digit of the given number
+28. TAB       : to print table from 2 to 20
+29. TABLE     : to print table of the given number
+30. TELEPHONE : to find billing amount of calls as per given condition
+31. TEMPCONV  : to covert temperature from fahrenheit to celcius or celcius to fahrenheit
+31. TRI       : to print area of triangle 
